@@ -35,5 +35,21 @@ public class SistemaLojaRoupasPOO implements SistemaLojaRoupas {
             return this.roupasMap.get(quantidade);
         }
     }
+    public int pesquisaQuantidadeDeRoupaNoEstoque(String codigoRoupa) throws RoupaInexistenteException{
+        int quantRoupas = 0;
+        if(this.roupasMap.containsKey(codigoRoupa)){
+            quantRoupas = this.roupasMap.get(codigoRoupa).getQuantidade();
+        } else {
+            throw new RoupaInexistenteException("A roupa com o código"+ codigoRoupa+ "não existe");
+        }
+        return quantRoupas;
+    }
+    public Tamanho consultaTamanhoDaRoupa(String codigoRoupa) throws RoupaInexistenteExcpetion{
+        if(this.roupasMap.containsKey(codigoRoupa)){
+            return this.roupasMap.get(codigoRoupa).getTamanho();
+        } else {
+            throw new RoupaInexistenteException("A roupa com o código informado não existe");
+        }
+    }
 }
 
