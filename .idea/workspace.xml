@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ba7f993-e2c2-4ca5-855e-f0c15e61d810" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sistemaFutebol/Jogador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sistemaFutebol/JogadorInexistenteException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sistemaFutebol/JogadorJaExisteException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sistemaFutebol/SistemaFutebol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sistemaFutebol/SistemaFutebolPOO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7ba7f993-e2c2-4ca5-855e-f0c15e61d810" name="Changes" comment="Resenha do arrocha 2.0 thcu thcuruu">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,14 +22,20 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Exception" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/davi22nato/poo2024-2.git",
+    "accountId": "7ccdee79-253f-44ca-995c-27423434c89a"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -70,6 +71,19 @@
       <option name="presentableId" value="Default" />
       <updated>1739453311790</updated>
     </task>
+    <task id="LOCAL-00001" summary="Resenha do arrocha 2.0 thcu thcuruu">
+      <option name="closed" value="true" />
+      <created>1740059550842</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740059550842</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Resenha do arrocha 2.0 thcu thcuruu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resenha do arrocha 2.0 thcu thcuruu" />
   </component>
 </project>
