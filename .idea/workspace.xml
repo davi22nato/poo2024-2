@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ba7f993-e2c2-4ca5-855e-f0c15e61d810" name="Changes" comment="Resenha do arrocha 2.0 thcu thcuruu">
+    <list default="true" id="7ba7f993-e2c2-4ca5-855e-f0c15e61d810" name="Changes" comment="att">
+      <changelist_data name="francisco.feitosa" email="francisco.feitosa@dcx.ufpb.br" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/atv01/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/atv01/SistemaLivros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,25 +31,32 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="francisco.feitosa &lt;francisco.feitosa@dcx.ufpb.br&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "davi22nato"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;davi22nato&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/davi22nato/poo2024-2.git",
-    "accountId": "7ccdee79-253f-44ca-995c-27423434c89a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/davi22nato/poo2024-2.git&quot;,
+    &quot;accountId&quot;: &quot;7ccdee79-253f-44ca-995c-27423434c89a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2szLAJ9y4NLQnXyr2ejCZ4XSQYJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -106,6 +116,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Resenha do arrocha 2.0 thcu thcuruu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resenha do arrocha 2.0 thcu thcuruu" />
+    <MESSAGE value="att exercicios" />
+    <MESSAGE value="att" />
+    <option name="LAST_COMMIT_MESSAGE" value="att" />
   </component>
 </project>
